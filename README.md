@@ -13,3 +13,4 @@ To use this app download the files.
 Run 'npm i' to install dependancies.
 Run 'npm run start' to start the app.
 Click on the install button to download the web app to your desktop.
+This app is also available on Heroku
